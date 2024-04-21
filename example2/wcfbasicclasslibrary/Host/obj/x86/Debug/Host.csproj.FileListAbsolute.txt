@@ -1,0 +1,19 @@
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\bin\Debug\Host.exe.config
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\bin\Debug\Host.exe
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\bin\Debug\Host.pdb
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\bin\Debug\wcfbasicclasslibrary.dll
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\bin\Debug\wcfbasicclasslibrary.pdb
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.exe
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\Host.exe.config
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\wcfbasicclasslibrary.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\wcfbasicclasslibrary.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclasslibrary\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example2\wcfbasicclasslibrary\Host\bin\Debug\Host.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example2\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example2\wcfbasicclasslibrary\Host\obj\x86\Debug\Host.pdb

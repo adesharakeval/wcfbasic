@@ -1,0 +1,10 @@
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\myservice\bin\Debug\myservice.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\myservice\bin\Debug\myservice.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\myservice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\myservice\obj\Debug\myservice.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\myservice\obj\Debug\myservice.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\myservice\bin\Debug\myservice.dll
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\myservice\bin\Debug\myservice.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\myservice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\myservice\obj\Debug\myservice.dll
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\myservice\obj\Debug\myservice.pdb

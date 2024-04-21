@@ -1,0 +1,9 @@
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\bin\Debug\wcfbasicclientdemo.exe.config
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\bin\Debug\wcfbasicclientdemo.exe
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\bin\Debug\wcfbasicclientdemo.pdb
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\obj\x86\Debug\wcfbasicclientdemo.exe
+c:\users\sony\documents\visual studio 2010\Projects\wcfbasicclientdemo\wcfbasicclientdemo\obj\x86\Debug\wcfbasicclientdemo.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclientdemo\wcfbasicclientdemo\bin\Debug\wcfbasicclientdemo.exe.config
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclientdemo\wcfbasicclientdemo\obj\x86\Debug\wcfbasicclientdemo.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example2\wcfbasicclientdemo\wcfbasicclientdemo\obj\x86\Debug\wcfbasicclientdemo.pdb

@@ -1,0 +1,16 @@
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\bin\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\bin\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\bin\Debug\myservice.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\bin\Debug\myservice.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\obj\x86\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\obj\x86\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\myservice\Host\bin\Debug\Host.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\bin\Debug\Host.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\obj\x86\Debug\Host.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\obj\x86\Debug\Host.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\bin\Debug\Host.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\bin\Debug\Host.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\bin\Debug\myservice.dll
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\bin\Debug\myservice.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\myservice\Host\obj\x86\Debug\ResolveAssemblyReference.cache

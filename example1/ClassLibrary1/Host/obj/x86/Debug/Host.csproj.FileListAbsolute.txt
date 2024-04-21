@@ -1,0 +1,27 @@
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\bin\Debug\Host.exe
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\bin\Debug\Host.pdb
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\bin\Debug\ClassLibrary1.dll
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\bin\Debug\ClassLibrary1.pdb
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\obj\x86\Debug\Host.exe
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\obj\x86\Debug\Host.pdb
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\Host\bin\Debug\Host.exe.config
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.exe.config
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.exe.config
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.exe
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.pdb
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.exe
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.pdb
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\bin\Debug\Host.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\Host\obj\x86\Debug\Host.pdb

@@ -1,0 +1,9 @@
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\obj\x86\Debug\MyClient.exe
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\athyd\MyClient\MyClient\obj\x86\Debug\MyClient.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\MyClient\MyClient\obj\x86\Debug\MyClient.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfbasic\athyd\MyClient\MyClient\obj\x86\Debug\MyClient.pdb

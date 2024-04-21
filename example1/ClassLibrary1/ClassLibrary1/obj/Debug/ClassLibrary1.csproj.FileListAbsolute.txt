@@ -1,0 +1,15 @@
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\sony\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\ASPNET4\Day1\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sony\Desktop\DotNET4\WCF\wcfbasic\example1\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
